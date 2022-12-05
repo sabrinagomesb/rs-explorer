@@ -1,0 +1,29 @@
+body {
+  border: 2px solid red;
+  margin: 0;
+
+  /* o navegador automaticamente inclui uma margem de 8 px. Necessário definir uma margem no body para alterar essa formatação padrão */
+}
+
+.page {
+  /*  border: 1px solid red; */
+  border: 2px solid red;
+  width: 1000px;
+  margin: 65px auto 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 55px;
+}
+
+ul {
+  display: flex;
+  gap: 48px;
+  list-style: none;
+  /* list style none retira os pontos da lista inseridas no html */
+  margin: 0;
+  padding: 0;
+}
