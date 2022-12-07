@@ -1,18 +1,19 @@
 body {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   margin: 0;
+  font-family: "Open Sans", sans-serif;
 
   /* o navegador automaticamente inclui uma margem de 8 px. Necessário definir uma margem no body para alterar essa formatação padrão */
 }
 
 .page {
   /*  border: 1px solid red; */
-  border: 2px solid red;
+  /* border: 2px solid red; */
   width: 1000px;
   margin: 65px auto 0;
 }
 
-header {
+nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -26,4 +27,84 @@ ul {
   /* list style none retira os pontos da lista inseridas no html */
   margin: 0;
   padding: 0;
+}
+
+ul li a {
+  /* background: red; */
+  text-decoration: none;
+  color: #1f1534;
+}
+
+ul li a:hover {
+  /* background: blue; */
+  font-weight: bold;
+}
+
+h1, ul {
+  font-family: "Mulish", sans-serif;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1 {
+  font-size: 49px;
+  line-height: 56px;
+  color: #1f1534;
+  font-weight: normal;
+  width: 490px;
+
+}
+
+h1 span {
+  color: #89C5CC;
+  font-weight: bold;
+}
+
+section p {
+  width: 438px;
+  font-size: 14px;
+  line-height: 28px;
+  color: #7D7987;
+  margin: 40px 0;
+}
+
+button {
+  text-transform: uppercase;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  
+  background: #69B99D;
+  border-radius: 4px;
+  border-style: none;
+  padding: 14px 32px 15px;
+  
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+
+  cursor: pointer;
+}
+
+button:hover {
+  background: #3d9475;
+}
+
+footer {
+  font-size: 14px;
+  line-height: 28px;
+  color: #1f1534;
+  text-align: center;
+  margin-top: 80px;
+}
+
+footer a {
+  font-weight: bold;
+  color: #1f1534;
+  text-decoration: none;
+  
 }
