@@ -1,16 +1,15 @@
 body {
-  /* border: 2px solid red; */
   margin: 0;
   font-family: "Open Sans", sans-serif;
-
+  background: linear-gradient(180deg, rgba(227, 255, 248, 0) 82.08%, rgba(227, 255, 248, 0.38) 100%);
+  min-height: 100vh;
   /* o navegador automaticamente inclui uma margem de 8 px. Necessário definir uma margem no body para alterar essa formatação padrão */
 }
 
 .page {
-  /*  border: 1px solid red; */
-  /* border: 2px solid red; */
   width: 1000px;
-  margin: 65px auto 0;
+  margin: 0 auto;
+  padding-top: 65px;;
 }
 
 nav {
@@ -33,11 +32,13 @@ ul li a {
   /* background: red; */
   text-decoration: none;
   color: #1f1534;
+  opacity: 0.5;
 }
 
 ul li a:hover {
   /* background: blue; */
   font-weight: bold;
+  opacity: 1;
 }
 
 h1, ul {
@@ -106,5 +107,10 @@ footer a {
   font-weight: bold;
   color: #1f1534;
   text-decoration: none;
-  
+}
+
+#balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
