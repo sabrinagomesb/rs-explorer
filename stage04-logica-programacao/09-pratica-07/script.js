@@ -15,12 +15,11 @@ O programa deverá capturar o número digitado pelo usuário e mostrar os seguin
 
 */
 
-let option;
+let option
 let items = []
 
-while(option != 3) {
-  
-  let option = Number(
+while (option != 3) {
+  option = Number(
     prompt(`
   Olá, usuário! Digite o número da opção desejada.
   1. Cadastrar um item na lista
@@ -28,23 +27,26 @@ while(option != 3) {
   3. Sair do programa
   `)
   )
-  
-  if (option == 1) {
-    let item = prompt('Digite o nome do item')
-    items.push(item)
-  }
-  
-  else if (option == 2) {
-  
-    if (items.length == 0) {
-      alert("Não existem itens cadastrados")
-    } else {
-      alert(items)
-    }
-  } else {
-    alert("Tchau")
-  }
-  console.log(option, items)
-  
-}
 
+  switch (option) {
+    case 1:
+      let item = prompt("Digite o nome do item")
+      items.push(item)
+      break
+
+    case 2:
+      if (items.length == 0) {
+        alert("Não existem itens cadastrados")
+      } else {
+        alert(items)
+      }
+      break
+
+    case 3:
+      alert("Tchau")
+      break
+
+    default:
+      alert("Opção inválida! Tente novamente.")
+  }
+}

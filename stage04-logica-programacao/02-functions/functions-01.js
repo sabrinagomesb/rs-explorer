@@ -11,3 +11,5 @@ function createPhrases() {
 createPhrases()
 
 console.log('Fim do programa.')
+
+createPhrases()
