@@ -110,3 +110,18 @@ form button {
 form button:hover {
   background: var(--bg-buttonDark);
 }
+
+.result {
+  background: var(--tt-heading);
+  width: 100%;
+  color: white;
+  text-align: center;
+  border-radius: .4rem;
+  margin-top: 1.6rem;
+  padding: .6rem;
+
+}
+
+.hide {
+  display: none;
+}
