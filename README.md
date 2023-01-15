@@ -19,9 +19,9 @@
   - 💻[Stage 01 - Fundamentos da Programação WEB](#stage-01---fundamentos-da-programação-web)
   - 💻[Stage 02 - Introdução ao HTML e CSS](#stage-02---introdução-ao-html-e-css)
     - [→ Projeto 01:](#-projeto-01)
-    - [→ Projeto 02:](#-projeto-02)
+    - [→ Projeto 02:](#-projeto-02) 
   - 💻[Stage 03 - Avançando no HTML e CSS](#stage-03---avançando-no-html-e-css)
-    - [→ Projeto 03:](#-projeto-03)
+    - [→ Projeto 03:](#-projeto-03) 
     - [Off Code 🎯](#off-code-)
       - 📝 [Land 01 - Início da Missão](#land-01---início-da-missão)
       - 📝[Land 02 - Objetivos e Planejamento](#land-02---objetivos-e-planejamento)
@@ -37,15 +37,15 @@ Aborda os conceitos básicos da programação, lógica de programação, funcion
 
 Aborda conceitos básicos de HTML (atributos e semantica) e CSS (Box Model e Flexbox) e apresenta a ferramenta Figma. Além disso, são desenvolvidos dois projetos, no qual são aplicados fontes e cores personalizadas, posicionamentos e espaçamentos dos elementos.
 
-#### → Projeto 01:
+#### → Projeto 01: https://sabrinagomesb.github.io/rs-explorer/stage02-projeto01/
 
-#### → Projeto 02:
+#### → Projeto 02: https://sabrinagomesb.github.io/rs-explorer/stage02-projeto02/
 
 ## Stage 03 - Avançando no HTML e CSS
 
 Neste módulo são abordados formulários no HTML e vários tipos de inputs. Introdução à responsividade, para que o projeto se adapte a vários tipos de dispositivos. Além de avançar no CSS com Grid, transições e animações.
 
-#### → Projeto 03:
+#### → Projeto 03: https://sabrinagomesb.github.io/rs-explorer/stage03-projeto03/
 
 ### 🎯 Off Code
 
