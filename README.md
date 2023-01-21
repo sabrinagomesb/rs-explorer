@@ -12,14 +12,6 @@
 
 # 🚀Explorer
 
- <!-- Table of Contents -->
-<!-- 
-## 📔 Documentação
-
-- [Explorer 🚀](#explorer-) - [Documentação](#documentação) -->
-
-<!-- About the Project -->
-
 ## 💻 O Curso
 
 [Explorer](https://www.rocketseat.com.br/explorer) é um programa completo para iniciantes na programação da plataforma da [Rocketseat](https://www.rocketseat.com.br/). Põe em prática conceitos adquiridos na trilha [Discover](https://app.rocketseat.com.br/discover), aprofundando e testando os conhecimentos.
@@ -40,35 +32,35 @@ Aborda os conceitos básicos da programação, lógica de programação, funcion
 
 Aborda conceitos básicos de HTML (atributos e semantica) e CSS (Box Model e Flexbox) e apresenta a ferramenta Figma. Além disso, são desenvolvidos dois projetos, no qual são aplicados fontes e cores personalizadas, posicionamentos e espaçamentos dos elementos.
 
-- Projeto 01: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage02-projeto01/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/stage02-projeto01/)
+- Projeto 01: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage02-projeto01/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto01)
 
-- Projeto 02: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage02-projeto01/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/stage02-projeto02/)
+- Projeto 02: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage02-projeto01/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto02/)
 
 ### Stage 3 - Avançando no HTML e CSS
 
 Neste módulo são abordados formulários no HTML e vários tipos de inputs. Introdução à responsividade, para que o projeto se adapte a vários tipos de dispositivos. Além de avançar no CSS com Grid, transições e animações.
 
-- Projeto 03: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto03/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/stage03-projeto03/)
+- Projeto 03: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto03/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage03-projeto03/)
 
-- Projeto 04: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto04/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/stage03-projeto04/)
+- Projeto 04: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto04/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage03-projeto04/)
 
-- Projeto 05: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto05/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/stage03-projeto05/)
+- Projeto 05: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto05/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage03-projeto05/)
 
 ## Stage 4 - Introdução à programação, lógica e algoritmos com JavaScript
 
 Vemos variáveis, operadores matemáticos, tipos de dados no JavaScript, operadores comparativos, estruturas de repetição e condicionais, Arrays e aprenderemos sobre funções no JavaScript e como utilizá-las.
 
-- Exercícios [Repositório](https://github.com/sabrinagomesb/rs-explorer/stage04-logica-pr/ogramacao)
+- Exercícios [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage04-logica-pr/ogramacao)
 
 ## Stage 5 - Avançando na programação WEB com JavaScript
 
 Neste módulo veremos sobre: Como manipular o navegador utilizando a DOM, funções callbacks, recursividade, princípios do Clean Code, ES6 Modules, padrão Factory, injeção de dependências, refatoração de código e muito mais…
 
-- Projeto 06: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto06/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/stage05-projeto06/)
+- Projeto 06: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto06/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage05-projeto06/)
 
-- Projeto 07: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto07/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/stage05-projeto07/)
+- Projeto 07: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto07/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage05-projeto07/)
 
-- Projeto 08: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto08/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/stage05-projeto08/)
+- Projeto 08: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto08/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage05-projeto08/)
 
 ---
 
@@ -109,6 +101,7 @@ Dicas e ideias para desenvolver projetos pessoais.
 #### Land 10 - Empregos
 
 Dicas e ideias para se destacar no mercado.
+
  <div align="center">
 <img width="220px" src="https://raw.githubusercontent.com/Rocketseat/awesome/master/assets/logo_rocketseat.png" alt="">&nbsp;&nbsp;&nbsp;
 <img width="150px" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fexplorer.svg&w=256&q=75"  alt="">
@@ -122,14 +115,6 @@ Dicas e ideias para se destacar no mercado.
 </div>
 
 # 🚀Explorer
-
- <!-- Table of Contents -->
-
-## 📔 Documentação
-
-- [Explorer 🚀](#explorer-) - [Documentação](#documentação)
-
-<!-- About the Project -->
 
 ## 💻 O Curso
 
@@ -153,7 +138,7 @@ Aborda conceitos básicos de HTML (atributos e semantica) e CSS (Box Model e Fle
 
 - Projeto 01: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage02-projeto01/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto01/)
 
-- Projeto 02: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage02-projeto01/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto02/)
+- Projeto 02: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage02-projeto02/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto02/)
 
 ### Stage 3 - Avançando no HTML e CSS
 
