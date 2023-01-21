@@ -38,7 +38,7 @@ Neste módulo são abordados formulários no HTML e vários tipos de inputs. Int
 
 Vemos variáveis, operadores matemáticos, tipos de dados no JavaScript, operadores comparativos, estruturas de repetição e condicionais, Arrays e aprenderemos sobre funções no JavaScript e como utilizá-las.
 
-- Exercícios [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-r/stage04-logica-pr/ogramacao)
+- Exercícios [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage04-logica-programacao)
 
 ## Stage 5 - Avançando na programação WEB com JavaScript
 
