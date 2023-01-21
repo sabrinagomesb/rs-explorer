@@ -1,10 +1,30 @@
 # 🚀Explorer
 
+- [🚀Explorer](#explorer)
+  - [💻 O Curso](#-o-curso)
+  - [🏗️ Tecnologias](#-tecnologias)
+  - [🕵🏼‍♀️ Ementa](#-ementa)
+    - [Stage 1 - Fundamentos da Programação WEB](#stage-1---fundamentos-da-programação-web)
+    - [Stage 2 - Introdução ao HTML e CSS](#stage-2---introdução-ao-html-e-css)
+    - [Stage 3 - Avançando no HTML e CSS](#stage-3---avançando-no-html-e-css)
+    - [Stage 4 - Introdução à programação, lógica e algoritmos com JavaScript](#stage-4---introdução-à-programação-lógica-e-algoritmos-com-javascript)
+    - [Stage 5 - Avançando na programação WEB com JavaScript](#stage-5---avançando-na-programação-web-com-javascript)
+    - [🎯 Off Code](#-off-code)
+      - [Land 1 - Início da Missão](#land-1---início-da-missão)
+      - [Land 2 - Objetivos e Planejamento](#land-2---objetivos-e-planejamento)
+      - [Land 3 - Aprendizado, estudos e técnicas](#land-3---aprendizado-estudos-e-técnicas)
+      - [Land 4 - Mentalidade](#land-4---mentalidade)
+      - [Land 6 - Marca Pessoal](#land-6---marca-pessoal)
+      - [Land 7 - Encontrando Soluções](#land-7---encontrando-soluções)
+      - [Land 8 - Inglês](#land-8---inglês)
+      - [Land 09 - Projetos Pessoais](#land-09---projetos-pessoais)
+      - [Land 10 - Empregos](#land-10---empregos)
+
 ## 💻 O Curso
 
 [Explorer](https://www.rocketseat.com.br/explorer) é um programa completo para iniciantes na programação da plataforma da [Rocketseat](https://www.rocketseat.com.br/). Põe em prática conceitos adquiridos na trilha [Discover](https://app.rocketseat.com.br/discover), aprofundando e testando os conhecimentos.
 
-### 🏗️ Tecnologias
+## 🏗️ Tecnologias
 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -34,13 +54,13 @@ Neste módulo são abordados formulários no HTML e vários tipos de inputs. Int
 
 - Projeto 05: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto05/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto05/)
 
-## Stage 4 - Introdução à programação, lógica e algoritmos com JavaScript
+### Stage 4 - Introdução à programação, lógica e algoritmos com JavaScript
 
 Vemos variáveis, operadores matemáticos, tipos de dados no JavaScript, operadores comparativos, estruturas de repetição e condicionais, Arrays e aprenderemos sobre funções no JavaScript e como utilizá-las.
 
 - Exercícios [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-r/stage04-logica-pr/ogramacao)
 
-## Stage 5 - Avançando na programação WEB com JavaScript
+### Stage 5 - Avançando na programação WEB com JavaScript
 
 Neste módulo veremos sobre: Como manipular o navegador utilizando a DOM, funções callbacks, recursividade, princípios do Clean Code, ES6 Modules, padrão Factory, injeção de dependências, refatoração de código e muito mais…
 
