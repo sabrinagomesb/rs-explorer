@@ -4,21 +4,13 @@
   - [💻 O Curso](#-o-curso)
   - [🏗️ Tecnologias](#-tecnologias)
   - [🕵🏼‍♀️ Ementa](#-ementa)
-    - [Stage 1 - Fundamentos da Programação WEB](#stage-1---fundamentos-da-programação-web)
-    - [Stage 2 - Introdução ao HTML e CSS](#stage-2---introdução-ao-html-e-css)
-    - [Stage 3 - Avançando no HTML e CSS](#stage-3---avançando-no-html-e-css)
-    - [Stage 4 - Introdução à programação, lógica e algoritmos com JavaScript](#stage-4---introdução-à-programação-lógica-e-algoritmos-com-javascript)
-    - [Stage 5 - Avançando na programação WEB com JavaScript](#stage-5---avançando-na-programação-web-com-javascript)
+    - [Stage 1 - Fundamentos da Programação WEB](#stage-1---fundamentos-da-programao-web)
+    - [Stage 2 - Introdução ao HTML e CSS](#stage-2---introduo-ao-html-e-css)
+    - [Stage 3 - Avançando no HTML e CSS](#stage-3---avanando-no-html-e-css)
+    - [Stage 4 - Introdução à programação, lógica e algoritmos com JavaScript](#stage-4---introduo--programao-lgica-e-algoritmos-com-javascript)
+    - [Stage 5 - Avançando na programação WEB com JavaScript](#stage-5---avanando-na-programao-web-com-javascript)
+    - [Stage 8 - Backend](#stage-8---backend)
     - [🎯 Off Code](#-off-code)
-      - [Land 1 - Início da Missão](#land-1---início-da-missão)
-      - [Land 2 - Objetivos e Planejamento](#land-2---objetivos-e-planejamento)
-      - [Land 3 - Aprendizado, estudos e técnicas](#land-3---aprendizado-estudos-e-técnicas)
-      - [Land 4 - Mentalidade](#land-4---mentalidade)
-      - [Land 6 - Marca Pessoal](#land-6---marca-pessoal)
-      - [Land 7 - Encontrando Soluções](#land-7---encontrando-soluções)
-      - [Land 8 - Inglês](#land-8---inglês)
-      - [Land 09 - Projetos Pessoais](#land-09---projetos-pessoais)
-      - [Land 10 - Empregos](#land-10---empregos)
 
 ## 💻 O Curso
 
@@ -70,9 +62,10 @@ Neste módulo veremos sobre: Como manipular o navegador utilizando a DOM, funç�
 
 - Projeto 08: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto08/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage05-projeto08/)
 
-### Stage 8 - Backend | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage08-backend/api/src)
+### Stage 8 - Backend
 
 Neste módulo veremos sobre: O que é o Node.js como ele funciona e suas vantagens. Construiremos uma API completa utilizando Node.js e Express. Utilizaremos o Insomnia para cadastrar nossas rotas e verificar os status codes das mesmas. Criaremos um banco de dados utilizando SQLite, manipularemos o nosso DB utilizando a ferramenta Beekeper Studio juntamente com o Query Builder Knex.js.
+[Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage08-backend/api/src)
 
 ---
 
@@ -112,7 +105,7 @@ Dicas e ideias para desenvolver projetos pessoais.
 
 #### Land 10 - Empregos
 
-Dicas e ideias para se destacar no merc
+Dicas e ideias para se destacar no mercado.
 
 ---
 
