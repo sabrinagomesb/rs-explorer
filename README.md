@@ -70,6 +70,10 @@ Neste módulo veremos sobre: Como manipular o navegador utilizando a DOM, funç�
 
 - Projeto 08: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto08/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage05-projeto08/)
 
+### Stage 8 - Backend | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage08-backend/api/src)
+
+Neste módulo veremos sobre: O que é o Node.js como ele funciona e suas vantagens. Construiremos uma API completa utilizando Node.js e Express. Utilizaremos o Insomnia para cadastrar nossas rotas e verificar os status codes das mesmas. Criaremos um banco de dados utilizando SQLite, manipularemos o nosso DB utilizando a ferramenta Beekeper Studio juntamente com o Query Builder Knex.js.
+
 ---
 
 ### 🎯 Off Code
