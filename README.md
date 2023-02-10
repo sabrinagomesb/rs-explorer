@@ -1,6 +1,5 @@
 # 🚀Explorer
 
-- [🚀Explorer](#explorer)
   - [💻 O Curso](#-o-curso)
   - [🏗️ Tecnologias](#-tecnologias)
   - [🕵🏼‍♀️ Ementa](#-ementa)
