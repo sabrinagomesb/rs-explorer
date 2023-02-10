@@ -48,11 +48,11 @@ Aborda conceitos básicos de HTML (atributos e semantica) e CSS (Box Model e Fle
 
 Neste módulo são abordados formulários no HTML e vários tipos de inputs. Introdução à responsividade, para que o projeto se adapte a vários tipos de dispositivos. Além de avançar no CSS com Grid, transições e animações.
 
-- Projeto 03: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto03/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto03/)
+- Projeto 03: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto03/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage03-projeto03)
 
-- Projeto 04: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto04/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto04/)
+- Projeto 04: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto04/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage03-projeto04)
 
-- Projeto 05: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto05/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto05/)
+- Projeto 05: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage03-projeto05/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage03-projeto05/)
 
 ### Stage 4 - Introdução à programação, lógica e algoritmos com JavaScript
 
@@ -62,13 +62,13 @@ Vemos variáveis, operadores matemáticos, tipos de dados no JavaScript, operado
 
 ### Stage 5 - Avançando na programação WEB com JavaScript
 
-Neste módulo veremos sobre: Como manipular o navegador utilizando a DOM, funções callbacks, recursividade, princípios do Clean Code, ES6 Modules, padrão Factory, injeção de dependências, refatoração de código e muito mais…
+Neste módulo veremos sobre: Como manipular o navegador utilizando a DOM, funções callbacks, recursividade, princípios do Clean Code, ES6 Modules, padrão Factory, injeção de dependências, refatoração de código e muito mais.
 
-- Projeto 06: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto06/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto06/)
+- Projeto 06: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto06/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage05-projeto06/)
 
-- Projeto 07: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto07/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto07/)
+- Projeto 07: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto07/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage05-projeto07/)
 
-- Projeto 08: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto08/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage02-projeto08/)
+- Projeto 08: [Demo](https://sabrinagomesb.github.io/rs-explorer/stage05-projeto08/) | [Repositório](https://github.com/sabrinagomesb/rs-explorer/tree/main/stage05-projeto08/)
 
 ---
 
